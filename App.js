@@ -60,7 +60,7 @@ function App() {
             previous
           </button>
         </div>
-        <div className="section-center">
+        <div>
           <p>{quote}</p>
         </div>
 
